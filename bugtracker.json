@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "arctic-sentry-258314",
+  "private_key_id": "11773ce03623716182f563bc85d2f22a43a4750b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDEUu/ZX5hqNy1S\nO/AhAB4MKhJNi56p8dSo7JaJXynOxTakwYPrKx3eOGa8ahVX4BhHJJ7XisqqPI1z\n/HNQ0O6rChzu1wZf5UATNNDtSBpV4/9x0K4VTGmIFf8Rd5b2wYBDGBrmOmD6tiLm\nC4xuyMW7gqk+T9SBjsk3QdTmm+w/3elEGRSCQTV/oVN4JDQAfetbRd44gH8t+5aW\nKEVtNf7fd+yuoqx4SRc5uuCqiQiQKZ97qfaZzgsMTpIL0rUwOGkPD6Q+PUqI+bug\nuP0k3uEXuEi4udGzs4Mo0ieGpH2DOf3CgGGUskxIaKxxpJFgXTXxv8NULDJ3I32z\nC/HfRaC5AgMBAAECggEABCAbbtv5vsoKVdCXuKEBJwkvfMZeDwN1EBhDbb9C7uSJ\nUMSwC7ew4NWBE5Aygusp2QoQz2xlp7zUtFCXlyXPM7Q0JiQWrw2vclsS0XJvx6KR\nbXGwssn6BSEz/+JqMotS5JxwgxCyrubRMwUGzkfB34r8zCf1Y6qQzMYBate+CwJ9\nuvxvH1b88Z57XSMUcNGVh/H6O2lwsyKHofrGp1m1kY/LEB7E9qEXZtCRW9wFSL9W\nVnocvXt5+tpqrwkkiUCDQZHsqLZ+kRqXikZU2pUk6hir1EYa8gAgRmFAP6tP2RS3\nPAw9wmAA556z6XlmDvcqbQTt1TSfadBfkJrBrxc/wQKBgQD6XFBbq6lQaVVDOe9a\nI/RYJyHYNC55gRrEvZvqMQNqQqKl2fkpGqsIpLTUIDIKgbfZUOBxVPPIg0mozmpx\nzHxVloyaaMpCKg3SFzwMYAjogVTewxI45z3sQWG3mgf/f8oi40k/Oa+lGGROYtg0\n0bcJIycSM8s7NTmgLHrwmccI4QKBgQDIvwZVhX8SeJnTLJqOY9MKDDgRGRSOGv6f\nw9thvuePg+vngzU7Y45E4TnhXxPUxEK1jhvbncxj4OsfAiiqctkLscUbp2AmYhuh\nskJexHIhJDBThgCGDOwjBxd24dPgFOYbU8FJhQ56wVYIYoWMrosl52l5pA3B6MDa\nNix+6nBa2QKBgQDvkpDO9/hgWztcxj61ejxicqffVSe324Q7Cdn+A4LqFvO/U1Mr\nMzrBXaMwbdKU3UaJrOvpZ0qU8JT29PdFCFFeMV9AjtAk+ksZZGRwzyEXJFOLiw2P\n6DAIORSB9eJ7atSKCAbaeqAKksnBfLK58Ih/NOU5dNigQrFvBcFrJSwh4QKBgQCk\nf1wqYk0hjq/GSsuPmJ9LoX2kDSA53kb+FhlEPJI1mQ2LVYoeU1M2gDTUx/tRI03i\nxkNvsBvXUGx6qWM3YQsYOSDiq0Hv0f8AfjlCvMkk/SmYl7sAHcC2Z05D/YOIILf6\ndqRxoVWfI6RjFJCJGlItyjY1FkiruBWn+jJ2AZf16QKBgCNM7/Jdk5YNy+jV8lMf\nMH+D2qAH4+R7jECjznH3KhqzgBpYNPg2wnhVE76rdWB7oqcV7lbtVfvzyQ4KfM7s\nm5PomaZm8DovQstYPIDo36lbIEhAvTORRkLCkyHWmvMHZgc4GXZTeiQI10PacCzT\nGipPaMIfOtlzl0VSn647+gKp\n-----END PRIVATE KEY-----\n",
+  "client_email": "bugtracker@arctic-sentry-258314.iam.gserviceaccount.com",
+  "client_id": "111047729478083636550",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bugtracker%40arctic-sentry-258314.iam.gserviceaccount.com"
+}
